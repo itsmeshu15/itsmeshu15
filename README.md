@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @itsmeshu15
+- 👋 Hi, I’m Shubh
 - 👀 I’m interested in 
 - - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me #itsmeshu15@gmail.com
 
 <!---
 itsmeshu15/itsmeshu15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
